@@ -2,8 +2,8 @@
 var http = require('http');
 
 function onRequest(request, response) {
-	resonse.writeHead(200, {"Content_Type: 'text/plain'"});
-	reponse.write('Hello World!');
+	response.writeHead(200, {'Content_Type': 'text/plain'});
+	response.write('Hello World!');
 	response.end();
 }
 
