@@ -1,0 +1,10 @@
+{
+	"name": "RealTimeWebChat",
+	"version": "0.0.0",
+	"description": {
+		"socket.io": "latest",
+		"express": "latest",
+		"pug": "latest"
+	},
+	"author": "yashaswi"
+}
